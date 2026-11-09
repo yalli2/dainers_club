@@ -1,9 +1,10 @@
 DATE = "2026-11-09"
 DATE_EN = "Monday, November 9, 2026"
+DATE_KO = "2026년 11월 9일 (월)"
 DATE_ES = "lunes, 9 de noviembre de 2026"
 
 EN = dict(
- lang="en", title="Dain Weekly · World Brief", sub="Global news for English learners", date=DATE_EN,
+ lang="en", title="DAILY DAINERS CLUB", sub="Global news for English learners", date=DATE_EN,
  note="Headlines compiled from public reports as of Nov 8–9, 2026. Figures are preliminary; check the original outlets.",
  stories=[
   dict(tag="USA · POLITICS", head="Democrats win the U.S. House in the midterms",
@@ -51,7 +52,7 @@ EN = dict(
 )
 
 ES = dict(
- lang="es", title="Dain Semanal · Noticias de LatAm", sub="Noticias del mundo hispano para estudiantes de español", date=DATE_ES,
+ lang="es", title="DIARIO DE DAINERS CLUB", sub="Noticias del mundo hispano para estudiantes de español", date=DATE_ES,
  note="Titulares reunidos de reportes públicos al 8–9 de nov. de 2026. Las cifras son preliminares; verifica en los medios originales.",
  stories=[
   dict(tag="PARAGUAY · POLÍTICA", head="Peña renuncia en medio de la crisis de Ueno Bank",
@@ -97,3 +98,7 @@ ES = dict(
  outro="Síguenos en @dainedu para tus noticias diarias en español", sources_title="Fuentes",
  video_hook="Resumen de 60 segundos",
 )
+
+from content_ko import KO
+for C in (EN, ES):
+    C["ko"] = KO[C["lang"]]
