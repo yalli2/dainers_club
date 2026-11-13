@@ -35,7 +35,7 @@ def dlogo(pos, size=84):
 def slides(C):
     K=C['ko']; out=[]; en=C['lang']=='en'
     kw_t='KEY WORDS · 핵심 단어' if en else 'PALABRAS CLAVE · 핵심 단어'
-    out.append(slide(f"""<div class=tag>{e(C['date'])} · {DATE_KO}</div>
+    out.append(slide(f"""<div class=tag style="max-width:780px;line-height:1.4;word-break:keep-all">{e(C['date'])} · {DATE_KO}</div>
     <div style="position:absolute;top:300px;left:80px;right:80px"><h1 style="font-size:96px;color:#FFC83D">{e(C['title'])}</h1>
     <p style="font-size:50px;font-weight:700;margin-bottom:26px">{e(K['title'])}</p>
     <p style="font-size:42px;line-height:1.35">{e(C['sub'])}<br><span style="opacity:.8;font-size:36px">{e(K['sub'])}</span></p></div>
