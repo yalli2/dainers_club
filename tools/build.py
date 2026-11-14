@@ -25,7 +25,7 @@ li:before{{content:'';position:absolute;left:0;top:18px;width:18px;height:18px;b
 <div class=foot><span>{n}/{total}</span></div></div></body></html>"""
 
 
-PUB = [("발행처","다인에듀"),("발행인","황부연"),("발행일","2026년 11월 9일"),("사업자등록번호","892-35-00546"),("연락처","031-429-0701"),("홈페이지","www.dainedu.net")]
+PUB = [("발행처","다인에듀"),("발행인","황부연"),("발행일",DATE_KO.split(" (")[0]),("사업자등록번호","892-35-00546"),("연락처","031-429-0701"),("홈페이지","www.dainedu.net")]
 def pubbox(fs=26):
     rows="".join(f"<div><b>{k}</b> : {v}</div>" for k,v in PUB)
     return f'<div style="border:3px solid #14213D;border-radius:18px;padding:22px 30px;background:#fff;font-size:{fs}px;line-height:1.55;color:#14213D;display:flex;gap:16px;align-items:center"><img src="{LOGO}" style="width:110px;height:110px;border-radius:12px"><div>{rows}</div></div>'
@@ -35,7 +35,7 @@ def dlogo(pos, size=84):
 def slides(C):
     K=C['ko']; out=[]; en=C['lang']=='en'
     kw_t='KEY WORDS · 핵심 단어' if en else 'PALABRAS CLAVE · 핵심 단어'
-    out.append(slide(f"""<div class=tag>{e(C['date'])} · {DATE_KO}</div>
+    out.append(slide(f"""<div class=tag style="font-size:21px;letter-spacing:1px">{e(C['date'])} · {DATE_KO}</div>
     <div style="position:absolute;top:300px;left:80px;right:80px"><h1 style="font-size:96px;color:#FFC83D">{e(C['title'])}</h1>
     <p style="font-size:50px;font-weight:700;margin-bottom:26px">{e(K['title'])}</p>
     <p style="font-size:42px;line-height:1.35">{e(C['sub'])}<br><span style="opacity:.8;font-size:36px">{e(K['sub'])}</span></p></div>
