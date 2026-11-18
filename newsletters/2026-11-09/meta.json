@@ -1,0 +1,96 @@
+{
+ "date": "2026-11-09",
+ "date_ko": "2026년 11월 9일 (월)",
+ "en": {
+  "title": "DAILY DAINERS CLUB",
+  "sub": "Global news for English learners",
+  "date": "Monday, November 9, 2026",
+  "title_ko": "데일리 다이너스 클럽",
+  "sub_ko": "영어 학습자를 위한 세계 뉴스",
+  "stories": [
+   {
+    "tag": "USA · POLITICS",
+    "head": "Democrats win the U.S. House in the midterms",
+    "ko": "민주당, 중간선거에서 미국 하원 승리",
+    "src": "ABC News, Al Jazeera"
+   },
+   {
+    "tag": "WORLD · IRAN & UKRAINE",
+    "head": "Midterm loss raises questions on the Iran war and Ukraine talks",
+    "ko": "중간선거 패배, 이란 전쟁과 우크라이나 협상에 던진 질문",
+    "src": "ABC News, wire reports"
+   },
+   {
+    "tag": "ISRAEL · POLITICS",
+    "head": "Herzog asks Gadi Eisenkot to try to form Israel's government",
+    "ko": "헤르조그 대통령, 가디 아이젠코트에 새 정부 구성 요청",
+    "src": "Al Jazeera, Africanews, SCMP"
+   },
+   {
+    "tag": "PARAGUAY · POLITICS",
+    "head": "President Peña resigns as impeachment moves ahead",
+    "ko": "페냐 대통령 사임, 탄핵 절차는 계속",
+    "src": "AP, Bloomberg Línea, El Nuevo Día"
+   },
+   {
+    "tag": "BRAZIL · ECONOMY",
+    "head": "Brazil lists 27 strategic minerals",
+    "ko": "브라질, 전략 광물 27종 목록 발표",
+    "src": "Bloomberg Línea"
+   }
+  ],
+  "vocab": [
+   "majority",
+   "coalition",
+   "to resign",
+   "bipartisan",
+   "reserves"
+  ]
+ },
+ "es": {
+  "title": "DIARIO DE DAINERS CLUB",
+  "sub": "Noticias del mundo hispano para estudiantes de español",
+  "date": "lunes, 9 de noviembre de 2026",
+  "title_ko": "디아리오 데 다이너스 클럽",
+  "sub_ko": "스페인어 학습자를 위한 중남미 뉴스",
+  "stories": [
+   {
+    "tag": "PARAGUAY · POLÍTICA",
+    "head": "Peña renuncia en medio de la crisis de Ueno Bank",
+    "ko": "페냐 대통령, 우에노 은행 위기 속 사임",
+    "src": "AP, Bloomberg Línea, El Nuevo Día"
+   },
+   {
+    "tag": "COLOMBIA · ECONOMÍA",
+    "head": "Ley de rescate fiscal divide al Congreso de De la Espriella",
+    "ko": "콜롬비아: 재정 구제법으로 데 라 에스피예야 정부와 의회 충돌",
+    "src": "Vanguardia, Bloomberg Línea, La República"
+   },
+   {
+    "tag": "BRASIL · ECONOMÍA",
+    "head": "Brasil publica su primera lista de 27 minerales estratégicos",
+    "ko": "브라질, 첫 전략 광물 27종 목록 공개",
+    "src": "Bloomberg Línea"
+   },
+   {
+    "tag": "EE. UU. Y LA REGIÓN",
+    "head": "Un Congreso demócrata: ¿qué cambia para América Latina?",
+    "ko": "민주당 의회: 중남미에는 무엇이 달라질까?",
+    "src": "BNamericas, Al Jazeera"
+   },
+   {
+    "tag": "CARIBE · ELECCIONES",
+    "head": "Granada: Dickon Mitchell gana por amplio margen",
+    "ko": "그레나다: 딕콘 미첼, 큰 표차로 승리",
+    "src": "NODAL"
+   }
+  ],
+  "vocab": [
+   "renunciar",
+   "la quiebra",
+   "el recaudo",
+   "las tierras raras",
+   "por amplio margen"
+  ]
+ }
+}

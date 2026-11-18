@@ -1,0 +1,96 @@
+{
+ "date": "2026-11-16",
+ "date_ko": "2026년 11월 16일 (월)",
+ "en": {
+  "title": "DAILY DAINERS CLUB",
+  "sub": "Global news for English learners",
+  "date": "Monday, November 16, 2026",
+  "title_ko": "데일리 다이너스 클럽",
+  "sub_ko": "영어 학습자를 위한 세계 뉴스",
+  "stories": [
+   {
+    "tag": "MIDDLE EAST · SECURITY",
+    "head": "Iran hits Bahrain again as a third U.S. carrier arrives",
+    "ko": "이란, 바레인 재공격… 미 항공모함 3척째 도착",
+    "src": "CNN, Rigzone/Reuters"
+   },
+   {
+    "tag": "DIPLOMACY · APEC",
+    "head": "Trump, Putin and Xi could meet in Shenzhen this week",
+    "ko": "트럼프·푸틴·시진핑, 이번 주 선전에서 만날까",
+    "src": "EWN/Reuters, The Korea Times"
+   },
+   {
+    "tag": "CLIMATE · COP31",
+    "head": "UN climate talks enter their final week in Antalya",
+    "ko": "유엔 기후회의 COP31, 안탈리아에서 마지막 주 돌입",
+    "src": "UNFCCC, Balkan Green Energy News"
+   },
+   {
+    "tag": "RELIGION · LATIN AMERICA",
+    "head": "Pope Leo XIV ends his South America trip in Peru",
+    "ko": "교황 레오 14세, 페루에서 남미 순방 마무리",
+    "src": "El Peruano, ACI Prensa, Vatican News"
+   },
+   {
+    "tag": "EUROPE · WAR IN UKRAINE",
+    "head": "Drone strikes continue on both sides of the Ukraine war",
+    "ko": "우크라이나 전쟁, 양측 드론 공격 계속",
+    "src": "Kyiv Post, United24 Media"
+   }
+  ],
+  "vocab": [
+   "stalled",
+   "summit",
+   "to host",
+   "pledge",
+   "ceasefire"
+  ]
+ },
+ "es": {
+  "title": "DIARIO DE DAINERS CLUB",
+  "sub": "Noticias del mundo hispano para estudiantes de español",
+  "date": "lunes, 16 de noviembre de 2026",
+  "title_ko": "디아리오 데 다이너스 클럽",
+  "sub_ko": "스페인어 학습자를 위한 중남미 뉴스",
+  "stories": [
+   {
+    "tag": "PERÚ · SOCIEDAD",
+    "head": "León XIV cierra su gira latinoamericana con una misa en Lima",
+    "ko": "레오 14세, 리마 미사로 중남미 순방 마무리",
+    "src": "El Peruano, ACI Prensa, EFE"
+   },
+   {
+    "tag": "VENEZUELA · POLÍTICA",
+    "head": "Chavismo y oposición: cuarta ronda de diálogo",
+    "ko": "베네수엘라: 차베스 진영과 야권의 네 번째 대화",
+    "src": "El País (Cali), Primicias, Bloomberg Línea"
+   },
+   {
+    "tag": "ECUADOR · CLIMA",
+    "head": "Lluvias de El Niño: al menos 12 muertos en Ecuador",
+    "ko": "엘니뇨 폭우로 에콰도르 최소 12명 사망",
+    "src": "Primicias, El Comercio, Prensa Latina"
+   },
+   {
+    "tag": "COLOMBIA · ECONOMÍA",
+    "head": "Presupuesto récord y déficit alto para 2027",
+    "ko": "콜롬비아, 2027년 사상 최대 예산과 큰 적자",
+    "src": "Portafolio, El Universal, Diario del Sur"
+   },
+   {
+    "tag": "EL SALVADOR · MEMORIA",
+    "head": "37 años de la masacre de los jesuitas de la UCA",
+    "ko": "UCA 예수회 신부 학살 37주년",
+    "src": "UCA, Prensa Latina"
+   }
+  ],
+  "vocab": [
+   "la gira",
+   "el diálogo",
+   "la inundación",
+   "el presupuesto",
+   "conmemorar"
+  ]
+ }
+}

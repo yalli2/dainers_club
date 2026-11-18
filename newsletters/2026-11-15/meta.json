@@ -1,0 +1,96 @@
+{
+ "date": "2026-11-15",
+ "date_ko": "2026년 11월 15일 (일)",
+ "en": {
+  "title": "DAILY DAINERS CLUB",
+  "sub": "Global news for English learners",
+  "date": "Sunday, November 15, 2026",
+  "title_ko": "데일리 다이너스 클럽",
+  "sub_ko": "영어 학습자를 위한 세계 뉴스",
+  "stories": [
+   {
+    "tag": "CLIMATE · COP31",
+    "head": "UN chief at COP31: “The climate crisis is outrunning us”",
+    "ko": "COP31 유엔 사무총장 “기후 위기가 우리를 앞질러 가고 있다”",
+    "src": "Reuters, AP, Khaleej Times"
+   },
+   {
+    "tag": "ASIA · DIPLOMACY",
+    "head": "World leaders head to Manila for the ASEAN summit",
+    "ko": "세계 정상들, 아세안 정상회의 위해 마닐라로",
+    "src": "Bernama, Arab News, The Star"
+   },
+   {
+    "tag": "CHINA · APEC",
+    "head": "Shenzhen prepares for APEC — and a possible Trump–Xi–Putin meeting",
+    "ko": "선전, APEC 준비… 트럼프·시진핑·푸틴 3자 회동 성사될까",
+    "src": "AP, Al Jazeera, SCMP"
+   },
+   {
+    "tag": "ISRAEL · POLITICS",
+    "head": "Eisenkot races the clock to build a coalition",
+    "ko": "아이젠코트, 시간과의 싸움 속 연정 구성 시도",
+    "src": "Al Jazeera, Israel Hayom, The National"
+   },
+   {
+    "tag": "PERU · RELIGION",
+    "head": "Pope Leo XIV returns to Peru, his second home",
+    "ko": "교황 레오 14세, ‘제2의 고향’ 페루 방문",
+    "src": "Andina, EFE, OSV News"
+   }
+  ],
+  "vocab": [
+   "emissions",
+   "summit",
+   "trilateral",
+   "mandate",
+   "to phase out"
+  ]
+ },
+ "es": {
+  "title": "DIARIO DE DAINERS CLUB",
+  "sub": "Noticias del mundo hispano para estudiantes de español",
+  "date": "domingo, 15 de noviembre de 2026",
+  "title_ko": "디아리오 데 다이너스 클럽",
+  "sub_ko": "스페인어 학습자를 위한 중남미 뉴스",
+  "stories": [
+   {
+    "tag": "PARAGUAY · POLÍTICA",
+    "head": "Pedro Alliana jura como presidente tras la destitución de Peña",
+    "ko": "페냐 탄핵 후 페드로 알리아나, 대통령 취임 선서",
+    "src": "EFE, AFP, Emol"
+   },
+   {
+    "tag": "ARGENTINA · ECONOMÍA",
+    "head": "La inflación de octubre sube al 2,2 %",
+    "ko": "아르헨티나 10월 물가상승률 2.2%로 상승",
+    "src": "INDEC, Infobae, Ámbito"
+   },
+   {
+    "tag": "PERÚ · SOCIEDAD",
+    "head": "El papa León XIV vuelve a Chiclayo, su “segunda casa”",
+    "ko": "교황 레오 14세, ‘제2의 고향’ 치클라요로 돌아오다",
+    "src": "Andina, EFE, La Jornada"
+   },
+   {
+    "tag": "BRASIL · CLIMA",
+    "head": "Lula en la COP31: “La crisis climática es una crisis de justicia”",
+    "ko": "COP31의 룰라 “기후 위기는 정의의 위기”",
+    "src": "Reuters, EFE, Bernama"
+   },
+   {
+    "tag": "GUATEMALA · CULTURA",
+    "head": "Las cenizas de Miguel Ángel Asturias regresan a Guatemala",
+    "ko": "미겔 앙헬 아스투리아스의 유해, 과테말라로 돌아오다",
+    "src": "AP, AGN, EFE"
+   }
+  ],
+  "vocab": [
+   "destituir",
+   "la inflación",
+   "el obispo",
+   "la cumbre",
+   "las cenizas"
+  ]
+ }
+}

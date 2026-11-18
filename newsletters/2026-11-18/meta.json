@@ -1,0 +1,96 @@
+{
+ "date": "2026-11-18",
+ "date_ko": "2026년 11월 18일 (수)",
+ "en": {
+  "title": "DAILY DAINERS CLUB",
+  "sub": "Global news for English learners",
+  "date": "Wednesday, November 18, 2026",
+  "title_ko": "데일리 다이너스 클럽",
+  "sub_ko": "영어 학습자를 위한 세계 뉴스",
+  "stories": [
+   {
+    "tag": "ASIA · DIPLOMACY",
+    "head": "Trade war in focus as Trump joins the ASEAN summit in Manila",
+    "ko": "트럼프 아세안 정상회의 합류, 무역 전쟁이 핵심 의제",
+    "src": "Al Jazeera, The Jakarta Post, The Star"
+   },
+   {
+    "tag": "UKRAINE · WAR",
+    "head": "Ukraine launches its biggest drone attack on Russia",
+    "ko": "우크라이나, 러시아에 사상 최대 규모 드론 공격",
+    "src": "AP, Kyiv Independent, Daily Sabah"
+   },
+   {
+    "tag": "MIDDLE EAST · SHIPPING",
+    "head": "More ships catch fire in the Strait of Hormuz",
+    "ko": "호르무즈 해협에서 선박 화재 잇따라",
+    "src": "Al Jazeera, Shafaq News, UKMTO"
+   },
+   {
+    "tag": "EUROPE · SERBIA",
+    "head": "Student-led majority takes over Serbia's parliament",
+    "ko": "세르비아 의회, 학생 주도 세력이 다수당으로 출범",
+    "src": "N1, RFE/RL, AP"
+   },
+   {
+    "tag": "CLIMATE · COP31",
+    "head": "COP31 enters its final days in Antalya",
+    "ko": "안탈리아 COP31, 마지막 주 협상 돌입",
+    "src": "Khaleej Times, Balkan Green Energy News, Hürriyet Daily News"
+   }
+  ],
+  "vocab": [
+   "tariff",
+   "to intercept",
+   "vessel",
+   "majority",
+   "pledge"
+  ]
+ },
+ "es": {
+  "title": "DIARIO DE DAINERS CLUB",
+  "sub": "Noticias del mundo hispano para estudiantes de español",
+  "date": "miércoles, 18 de noviembre de 2026",
+  "title_ko": "디아리오 데 다이너스 클럽",
+  "sub_ko": "스페인어 학습자를 위한 스페인어권 뉴스",
+  "stories": [
+   {
+    "tag": "ESPAÑA · ELECCIONES",
+    "head": "España vota el 29-N: Sánchez busca otro mandato",
+    "ko": "스페인 11월 29일 총선: 산체스, 재집권 도전",
+    "src": "Ministerio del Interior, El Español, Radiomundo"
+   },
+   {
+    "tag": "CHILE · ECONOMÍA",
+    "head": "El Senado debate el primer presupuesto de Kast",
+    "ko": "칠레 상원, 카스트 정부 첫 예산안 심의",
+    "src": "Emol, El Desconcierto, Cámara de Diputados"
+   },
+   {
+    "tag": "VENEZUELA · POLÍTICA",
+    "head": "Chavismo y oposición siguen dialogando, sin fecha electoral",
+    "ko": "베네수엘라 정부·야권 대화 계속, 선거 날짜는 미정",
+    "src": "CNN en Español, EFE, Radiomundo"
+   },
+   {
+    "tag": "HAITÍ · SEGURIDAD",
+    "head": "Tropas salvadoreñas toman un estadio clave en Puerto Príncipe",
+    "ko": "엘살바도르군, 포르토프랭스 핵심 경기장 장악",
+    "src": "El Nuevo Día, Diario El Mundo, Revista E&N"
+   },
+   {
+    "tag": "PARAGUAY · JUSTICIA",
+    "head": "Tras la destitución de Peña, la Fiscalía avanza en el caso Ueno",
+    "ko": "페냐 파면 이후 검찰, 우에노 은행 사건 수사 속도",
+    "src": "Emol, Unitel/EFE"
+   }
+  ],
+  "vocab": [
+   "el escaño",
+   "el presupuesto",
+   "la hoja de ruta",
+   "la pandilla",
+   "destituir"
+  ]
+ }
+}

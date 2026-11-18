@@ -138,3 +138,8 @@ def video(d, prefix, w, h, out):
     subprocess.run(["ffmpeg","-y","-loglevel","error",*inputs,"-filter_complex",f.rstrip(';'),"-map",f"[{last}]","-t","60","-c:v","libx264","-pix_fmt","yuv420p","-movflags","+faststart",f"{d}/{out}"],check=True)
 
 build(EN,"en"); build(ES,"es")
+
+# Site data (index.html reads newsletters/index.json)
+import manifest
+manifest.write_meta(EN, ES, DATE, DATE_KO)
+manifest.build_index()

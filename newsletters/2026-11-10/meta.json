@@ -1,0 +1,96 @@
+{
+ "date": "2026-11-10",
+ "date_ko": "2026년 11월 10일 (화)",
+ "en": {
+  "title": "DAILY DAINERS CLUB",
+  "sub": "Global news for English learners",
+  "date": "Tuesday, November 10, 2026",
+  "title_ko": "데일리 다이너스 클럽",
+  "sub_ko": "영어 학습자를 위한 세계 뉴스",
+  "stories": [
+   {
+    "tag": "USA · POLITICS",
+    "head": "Democrats reported to win both chambers of Congress",
+    "ko": "민주당, 미국 상·하원 모두 장악한 것으로 보도",
+    "src": "ITV News, Scripps News, Eurointegration"
+   },
+   {
+    "tag": "CLIMATE · COP31",
+    "head": "COP31 climate summit opens in Antalya, Türkiye",
+    "ko": "튀르키예 안탈리아에서 COP31 기후 정상회의 개막",
+    "src": "UNFCCC-linked pages, Austrian climate ministry"
+   },
+   {
+    "tag": "UKRAINE · DIPLOMACY",
+    "head": "Kremlin says Putin open to resuming three-way peace talks",
+    "ko": "크렘린, 푸틴이 3자 평화회담 재개에 열려 있다고 밝혀",
+    "src": "NTN24, Greek Reporter, Ground News"
+   },
+   {
+    "tag": "PARAGUAY · POLITICS",
+    "head": "Paraguay's Peña removed and detained over Ueno Bank crisis",
+    "ko": "파라과이 페냐 대통령, 우에노 은행 위기로 파면·구금",
+    "src": "Vozpópuli, BBC Mundo (via Teletica), El Mundo (SV)"
+   },
+   {
+    "tag": "ARGENTINA · FAITH",
+    "head": "Pope Leo XIV makes first papal visit to Argentina in 39 years",
+    "ko": "교황 레오 14세, 39년 만에 아르헨티나 첫 방문",
+    "src": "Al Jazeera, Buenos Aires Times, Prensa Latina"
+   }
+  ],
+  "vocab": [
+   "to remove",
+   "summit",
+   "envoy",
+   "savers",
+   "hardship"
+  ]
+ },
+ "es": {
+  "title": "DIARIO DE DAINERS CLUB",
+  "sub": "Noticias del mundo hispano para estudiantes de español",
+  "date": "martes, 10 de noviembre de 2026",
+  "title_ko": "디아리오 데 다이너스 클럽",
+  "sub_ko": "스페인어 학습자를 위한 중남미 뉴스",
+  "stories": [
+   {
+    "tag": "PARAGUAY · POLÍTICA",
+    "head": "Peña, destituido y detenido por la crisis de Ueno Bank",
+    "ko": "파라과이: 페냐, 우에노 은행 위기로 파면·구금",
+    "src": "Vozpópuli, BBC Mundo, El Mundo (SV)"
+   },
+   {
+    "tag": "PARAGUAY · ECONOMÍA",
+    "head": "El Banco Central devuelve depósitos de Ueno Bank",
+    "ko": "파라과이: 중앙은행, 우에노 은행 예금 반환",
+    "src": "EFE, Ámbito, El Mundo (SV)"
+   },
+   {
+    "tag": "ARGENTINA · SOCIEDAD",
+    "head": "El papa León XIV visita Argentina por primera vez",
+    "ko": "아르헨티나: 교황 레오 14세, 처음으로 방문",
+    "src": "Prensa Latina, Buenos Aires Herald, Al Jazeera"
+   },
+   {
+    "tag": "VENEZUELA · PETRÓLEO",
+    "head": "ExxonMobil firma un memorando con PDVSA",
+    "ko": "베네수엘라: 엑슨모빌, PDVSA와 양해각서 체결",
+    "src": "EFE, WSJ vía BOE Report"
+   },
+   {
+    "tag": "ECUADOR · SEGURIDAD",
+    "head": "Termina el toque de queda en cinco provincias",
+    "ko": "에콰도르: 5개 주 통행금지 종료",
+    "src": "EFE, Primicias, Teleamazonas"
+   }
+  ],
+  "vocab": [
+   "destituir",
+   "el ahorrista",
+   "la devolución",
+   "vinculante",
+   "el toque de queda"
+  ]
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "date": "2026-11-12",
+ "date_ko": "2026년 11월 12일 (목)",
+ "en": {
+  "title": "DAILY DAINERS CLUB",
+  "sub": "Global news for English learners",
+  "date": "Thursday, November 12, 2026",
+  "title_ko": "데일리 다이너스 클럽",
+  "sub_ko": "영어 학습자를 위한 세계 뉴스",
+  "stories": [
+   {
+    "tag": "RUSSIA · UKRAINE",
+    "head": "Abu Dhabi talks end with a prisoner-swap deal, but no peace",
+    "ko": "아부다비 회담, 포로 교환 합의했지만 평화는 아직",
+    "src": "Euronews, The Washington Post, The Hill"
+   },
+   {
+    "tag": "CLIMATE · COP31",
+    "head": "World leaders gather in Antalya for the COP31 climate summit",
+    "ko": "세계 정상들, COP31 기후 정상회의 위해 안탈리아 집결",
+    "src": "UNFCCC, Anadolu Agency"
+   },
+   {
+    "tag": "HEALTH · CONGO",
+    "head": "Congo's Ebola outbreak passes 10,000 cases",
+    "ko": "콩고 에볼라 확진 1만 명 넘어",
+    "src": "AP, Africa CDC, Nature World News"
+   },
+   {
+    "tag": "EUROPE · SECURITY",
+    "head": "Stray drones put NATO's Baltic air defense on alert",
+    "ko": "길 잃은 드론에 나토 발트 방공망 경계",
+    "src": "The Star (Reuters), Euronews, European Pravda"
+   },
+   {
+    "tag": "FAITH · SOUTH AMERICA",
+    "head": "Pope Leo XIV returns to Peru, his second home",
+    "ko": "교황 레오 14세, '제2의 고향' 페루로 돌아오다",
+    "src": "El Peruano, Andina, ACI Prensa"
+   }
+  ],
+  "vocab": [
+   "breakthrough",
+   "summit",
+   "outbreak",
+   "to intercept",
+   "to welcome"
+  ]
+ },
+ "es": {
+  "title": "DIARIO DE DAINERS CLUB",
+  "sub": "Noticias del mundo hispano para estudiantes de español",
+  "date": "jueves, 12 de noviembre de 2026",
+  "title_ko": "디아리오 데 다이너스 클럽",
+  "sub_ko": "스페인어 학습자를 위한 중남미 뉴스",
+  "stories": [
+   {
+    "tag": "PARAGUAY · JUSTICIA",
+    "head": "La Fiscalía imputa al expresidente Peña por el caso Ueno Bank",
+    "ko": "검찰, 우에노 은행 사건으로 페냐 전 대통령 기소",
+    "src": "Emol, Perfil, Semana"
+   },
+   {
+    "tag": "PERÚ · SOCIEDAD",
+    "head": "El papa León XIV llega a Perú, su “segunda casa”",
+    "ko": "교황 레오 14세, '제2의 고향' 페루 도착",
+    "src": "El Peruano, Andina, ACI Prensa"
+   },
+   {
+    "tag": "ECUADOR · SEGURIDAD",
+    "head": "Noboa renueva el estado de excepción antes de las elecciones",
+    "ko": "노보아, 선거 앞두고 비상사태 연장",
+    "src": "Prensa Latina, EFE"
+   },
+   {
+    "tag": "COLOMBIA · PAZ",
+    "head": "Diez años del acuerdo de paz: una paz “agridulce”",
+    "ko": "평화협정 10년: '달콤 씁쓸한' 평화",
+    "src": "RCN, Diario del Sur, EFE"
+   },
+   {
+    "tag": "HAITÍ · EL SALVADOR",
+    "head": "Tropas salvadoreñas lanzan una ofensiva contra pandillas en Haití",
+    "ko": "엘살바도르군, 아이티 갱단 소탕 작전 개시",
+    "src": "AP, El Diario de Hoy, Al Jazeera"
+   }
+  ],
+  "vocab": [
+   "imputar",
+   "la gira",
+   "renovar",
+   "el firmante",
+   "la pandilla"
+  ]
+ }
+}

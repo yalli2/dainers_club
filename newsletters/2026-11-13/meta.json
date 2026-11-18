@@ -1,0 +1,96 @@
+{
+ "date": "2026-11-13",
+ "date_ko": "2026년 11월 13일 (금)",
+ "en": {
+  "title": "DAILY DAINERS CLUB",
+  "sub": "Global news for English learners",
+  "date": "Friday, November 13, 2026",
+  "title_ko": "데일리 다이너스 클럽",
+  "sub_ko": "영어 학습자를 위한 세계 뉴스",
+  "stories": [
+   {
+    "tag": "BUSINESS · TECH",
+    "head": "Nvidia's Jensen Huang resigns after 33 years",
+    "ko": "엔비디아 젠슨 황, 33년 만에 사임",
+    "src": "TechCrunch, CNBC, Al Jazeera, Fortune"
+   },
+   {
+    "tag": "MIDDLE EAST · IRAN",
+    "head": "Explosions hit tankers in the Strait of Hormuz",
+    "ko": "호르무즈 해협에서 유조선 연쇄 폭발",
+    "src": "AP, Reuters, CBS News"
+   },
+   {
+    "tag": "RUSSIA · UKRAINE",
+    "head": "U.S. envoys say Europe will join the next Ukraine talks",
+    "ko": "미국 특사 \"다음 우크라이나 회담에 유럽 참여\"",
+    "src": "CNN, Euronews, Anadolu Agency"
+   },
+   {
+    "tag": "USA · NEW YORK",
+    "head": "Brooklyn building collapse kills eight, including two children",
+    "ko": "브루클린 건물 붕괴로 어린이 2명 포함 8명 사망",
+    "src": "NBC News, CNN, NBC New York"
+   },
+   {
+    "tag": "WORLD · UNITED NATIONS",
+    "head": "Latin America wants the next UN Secretary-General",
+    "ko": "중남미 \"다음 유엔 사무총장은 우리 지역에서\"",
+    "src": "EFE, la diaria, Milenio"
+   }
+  ],
+  "vocab": [
+   "to resign",
+   "interim",
+   "to verify",
+   "envoy",
+   "successor"
+  ]
+ },
+ "es": {
+  "title": "DIARIO DE DAINERS CLUB",
+  "sub": "Noticias del mundo hispano para estudiantes de español",
+  "date": "viernes, 13 de noviembre de 2026",
+  "title_ko": "디아리오 데 다이너스 클럽",
+  "sub_ko": "스페인어 학습자를 위한 중남미 뉴스",
+  "stories": [
+   {
+    "tag": "REGIÓN · ONU",
+    "head": "La Celac pide un secretario general de la ONU latinoamericano",
+    "ko": "셀락 \"다음 유엔 사무총장은 중남미 출신으로\"",
+    "src": "EFE, la diaria, Milenio"
+   },
+   {
+    "tag": "VENEZUELA · POLÍTICA",
+    "head": "Arranca el cuarto ciclo de diálogo entre chavismo y oposición",
+    "ko": "베네수엘라 정부·야당 4차 대화 시작",
+    "src": "EFE, Efecto Cocuyo"
+   },
+   {
+    "tag": "ARGENTINA · ECONOMÍA",
+    "head": "La inflación de octubre sube al 2,2 %",
+    "ko": "아르헨티나 10월 물가 2.2% 상승",
+    "src": "Chequeado, La Nación, Rankia"
+   },
+   {
+    "tag": "MÉXICO · NARCOTRÁFICO",
+    "head": "El hermano de “El Mencho” espera su sentencia en EE. UU.",
+    "ko": "'엘 멘초' 동생, 미국에서 형량 선고 앞둬",
+    "src": "El Tiempo, Milenio, Telemundo"
+   },
+   {
+    "tag": "PERÚ · SOCIEDAD",
+    "head": "El papa León XIV vuelve a Chiclayo, “su ciudad”",
+    "ko": "교황 레오 14세, '자신의 도시' 치클라요로",
+    "src": "RPP, EWTN, Gobierno Regional de Lambayeque"
+   }
+  ],
+  "vocab": [
+   "el mandatario",
+   "el diálogo",
+   "la inflación",
+   "declararse culpable",
+   "multitudinario"
+  ]
+ }
+}

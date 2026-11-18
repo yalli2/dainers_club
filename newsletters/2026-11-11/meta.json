@@ -1,0 +1,96 @@
+{
+ "date": "2026-11-11",
+ "date_ko": "2026년 11월 11일 (수)",
+ "en": {
+  "title": "DAILY DAINERS CLUB",
+  "sub": "Global news for English learners",
+  "date": "Wednesday, November 11, 2026",
+  "title_ko": "데일리 다이너스 클럽",
+  "sub_ko": "영어 학습자를 위한 세계 뉴스",
+  "stories": [
+   {
+    "tag": "UKRAINE · DIPLOMACY",
+    "head": "Abu Dhabi talks end with a large prisoner swap deal",
+    "ko": "아부다비 회담, 대규모 포로 교환 합의로 마무리",
+    "src": "Euronews, NPR, The Hill"
+   },
+   {
+    "tag": "SPAIN · SOCIETY",
+    "head": "Spain holds a general strike over housing and wages",
+    "ko": "스페인, 주거비·임금 문제로 총파업",
+    "src": "elDiario.es, Reuters, Catalan News"
+   },
+   {
+    "tag": "CLIMATE · COP31",
+    "head": "COP31 enters its third day in Antalya",
+    "ko": "COP31, 안탈리아에서 사흘째",
+    "src": "UNFCCC, Heinrich Böll Foundation, Turkish media"
+   },
+   {
+    "tag": "AFRICA · HEALTH",
+    "head": "Congo's Ebola outbreak keeps growing",
+    "ko": "콩고 에볼라 확산 계속",
+    "src": "AP, Al Jazeera, WHO"
+   },
+   {
+    "tag": "MIDDLE EAST · ENERGY",
+    "head": "Tanker fires raise fears in the Strait of Hormuz",
+    "ko": "호르무즈 해협 유조선 화재로 불안 고조",
+    "src": "Al Jazeera, SCMP, Tasnim"
+   }
+  ],
+  "vocab": [
+   "ceasefire",
+   "general strike",
+   "pledge",
+   "outbreak",
+   "to restrict"
+  ]
+ },
+ "es": {
+  "title": "DIARIO DE DAINERS CLUB",
+  "sub": "Noticias del mundo hispano para estudiantes de español",
+  "date": "miércoles, 11 de noviembre de 2026",
+  "title_ko": "디아리오 데 다이너스 클럽",
+  "sub_ko": "스페인어 학습자를 위한 스페인어권·중남미 뉴스",
+  "stories": [
+   {
+    "tag": "ESPAÑA · SOCIEDAD",
+    "head": "Huelga general por la vivienda y los salarios",
+    "ko": "스페인, 주거·임금 문제로 총파업",
+    "src": "elDiario.es, UGT, Reuters"
+   },
+   {
+    "tag": "ECUADOR · SEGURIDAD",
+    "head": "La Asamblea aprueba la Ley Antimafias",
+    "ko": "에콰도르 국회, '반(反)마피아법' 통과",
+    "src": "Primicias, Teleamazonas"
+   },
+   {
+    "tag": "PERÚ · SOCIEDAD",
+    "head": "León XIV llega a Lima, su “segunda casa”",
+    "ko": "레오 14세 교황, '제2의 고향' 리마 도착",
+    "src": "El Peruano, Caretas, Univision"
+   },
+   {
+    "tag": "MÉXICO · ECONOMÍA",
+    "head": "Banxico baja la tasa a 6,25% con una economía débil",
+    "ko": "멕시코 중앙은행, 금리 6.25%로 인하…경기는 부진",
+    "src": "Bloomberg Línea, Por Esto, Mexico News Daily"
+   },
+   {
+    "tag": "VENEZUELA · ECONOMÍA",
+    "head": "Venezuela busca inversión con la UE y Chile",
+    "ko": "베네수엘라, EU·칠레와 투자 확대 모색",
+    "src": "El Nacional"
+   }
+  ],
+  "vocab": [
+   "la huelga",
+   "el alquiler",
+   "la pena",
+   "recortar",
+   "la inversión"
+  ]
+ }
+}

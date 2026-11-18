@@ -1,0 +1,96 @@
+{
+ "date": "2026-11-17",
+ "date_ko": "2026년 11월 17일 (화)",
+ "en": {
+  "title": "DAILY DAINERS CLUB",
+  "sub": "Global news for English learners",
+  "date": "Tuesday, November 17, 2026",
+  "title_ko": "데일리 다이너스 클럽",
+  "sub_ko": "영어 학습자를 위한 세계 뉴스",
+  "stories": [
+   {
+    "tag": "EUROPE · WAR IN UKRAINE",
+    "head": "Ukraine hits Russia's Kerch Bridge to Crimea — twice",
+    "ko": "우크라이나, 크림반도 잇는 러시아 케르치 대교 두 차례 타격",
+    "src": "NBC News, CNBC, The War Zone"
+   },
+   {
+    "tag": "ASIA · DIPLOMACY",
+    "head": "Trump brings the Quad back together in Manila",
+    "ko": "트럼프, 마닐라에서 쿼드 정상들과 다시 모여",
+    "src": "Rappler, ANI, OAN"
+   },
+   {
+    "tag": "ENERGY · ASIA",
+    "head": "Japan proposes an “Asian IEA” to fight oil shocks",
+    "ko": "일본, 석유 위기 대비 '아시아판 IEA' 제안",
+    "src": "AP, ABC News"
+   },
+   {
+    "tag": "EUROPE · MIGRATION",
+    "head": "Five EU countries plan a deportation hub in Rwanda",
+    "ko": "EU 5개국, 르완다에 송환 센터 설치 추진",
+    "src": "CNN, Reuters/ThePrint"
+   },
+   {
+    "tag": "CLIMATE · COP31",
+    "head": "COP31 enters its final days as negotiators draft a deal",
+    "ko": "COP31 막바지… 협상단, 합의문 초안 작성 중",
+    "src": "Hürriyet Daily News/AFP, Carbon Brief"
+   }
+  ],
+  "vocab": [
+   "to suspend",
+   "in person",
+   "stockpile",
+   "asylum seeker",
+   "deadline"
+  ]
+ },
+ "es": {
+  "title": "DIARIO DE DAINERS CLUB",
+  "sub": "Noticias del mundo hispano para estudiantes de español",
+  "date": "martes, 17 de noviembre de 2026",
+  "title_ko": "디아리오 데 다이너스 클럽",
+  "sub_ko": "스페인어 학습자를 위한 중남미 뉴스",
+  "stories": [
+   {
+    "tag": "PARAGUAY · JUSTICIA",
+    "head": "El expresidente Santiago Peña, trasladado a una cárcel militar",
+    "ko": "파라과이 산티아고 페냐 전 대통령, 군 교도소로 이감",
+    "src": "EFE, Infobae, Euronews"
+   },
+   {
+    "tag": "ECUADOR · SEGURIDAD",
+    "head": "Noboa niega que EE. UU. tenga una base militar en Ecuador",
+    "ko": "노보아 대통령, '미군 기지 없다' 부인",
+    "src": "France 24/AFP, La República"
+   },
+   {
+    "tag": "MÉXICO · DIPLOMACIA",
+    "head": "Sheinbaum y Xi Jinping hablan de “una nueva era”",
+    "ko": "셰인바움·시진핑, '새로운 시대' 논의",
+    "src": "Excélsior, Vanguardia, El Comercio"
+   },
+   {
+    "tag": "VENEZUELA · TRABAJO",
+    "head": "Paro nacional de 12 horas en salud y educación",
+    "ko": "베네수엘라 보건·교육 부문 12시간 전국 파업",
+    "src": "El Diario, La Patilla, NTN24"
+   },
+   {
+    "tag": "ARGENTINA · ECONOMÍA",
+    "head": "Milei: el riesgo país no baja por miedo al pasado",
+    "ko": "밀레이 '국가 위험도가 안 내려가는 건 과거에 대한 두려움 때문'",
+    "src": "Infobae"
+   }
+  ],
+  "vocab": [
+   "el traslado",
+   "negar",
+   "la cumbre",
+   "el paro",
+   "el riesgo país"
+  ]
+ }
+}
