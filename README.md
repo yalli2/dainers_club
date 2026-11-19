@@ -2,3 +2,7 @@
 `newsletters/<YYYY-MM-DD>/{en,es}/` — 10 Instagram slides (1080x1350 PNG), an A4 PDF, a 60s feed video (`video_*`, 4:5) and a 60s Reels video (`reels_*`, 9:16) per language.
 - `en`: world news for English learners · `es`: Latin America news for Spanish learners
 - Rebuild: `NODE_PATH=$(npm root -g) python3 tools/build.py` (edit `tools/content.py` first). Logo: `assets/dain_logo.jpg`. Korean text layer: `tools/content_ko.py`.
+
+## Issues
+- **2026-11-19** — EN: APEC Shenzhen (Xi·Trump), US–Iran Gulf strikes, Kerch Bridge drone attack, UK/Australia settlement sanctions, protests (Bangladesh, Brussels) · ES: Sheinbaum en la APEC, paro CUT/Confech en Chile, renovación del TSJ en Venezuela, acuerdo Haití–El Salvador, sarampión en Guatemala
+- **2026-11-09** — EN/ES first edition
