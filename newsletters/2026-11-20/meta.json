@@ -1,0 +1,96 @@
+{
+ "date": "2026-11-20",
+ "date_ko": "2026년 11월 20일 (금)",
+ "en": {
+  "title": "DAILY DAINERS CLUB",
+  "sub": "Global news for English learners",
+  "date": "Friday, November 20, 2026",
+  "title_ko": "데일리 다이너스 클럽",
+  "sub_ko": "영어 학습자를 위한 세계 뉴스",
+  "stories": [
+   {
+    "tag": "ASIA · APEC",
+    "head": "Trump heads home from Asia without a China trade deal",
+    "ko": "트럼프, 중국과 무역 합의 없이 아시아 순방 마무리",
+    "src": "CNBC, The Week, China Briefing"
+   },
+   {
+    "tag": "UKRAINE · RUSSIA",
+    "head": "Putin rules out truces after the Crimean Bridge attacks",
+    "ko": "푸틴, 크림대교 공격 이후 휴전 협상 거부",
+    "src": "Reuters via Yahoo News, Infobae, Diario Las Américas"
+   },
+   {
+    "tag": "EUROPE · ESTONIA",
+    "head": "Estonia will close its road crossings with Russia",
+    "ko": "에스토니아, 러시아와의 도로 국경 검문소 폐쇄",
+    "src": "Al Jazeera, Meduza, IBTimes UK"
+   },
+   {
+    "tag": "MIDDLE EAST · IRAQ",
+    "head": "Deadline day in Iraq for an Iran-backed militia",
+    "ko": "이라크, 친이란 민병대에 철수 시한 마지막 날",
+    "src": "Al Jazeera, Shafaq News, Kurdistan24"
+   },
+   {
+    "tag": "CLIMATE · COP31",
+    "head": "COP31 reaches its last scheduled day, still divided",
+    "ko": "COP31, 예정된 마지막 날까지 이견 팽팽",
+    "src": "Gulf News, Dhaka Tribune, Down To Earth"
+   }
+  ],
+  "vocab": [
+   "truce",
+   "to rule out",
+   "arson",
+   "stronghold",
+   "phaseout"
+  ]
+ },
+ "es": {
+  "title": "DIARIO DE DAINERS CLUB",
+  "sub": "Noticias del mundo hispano para estudiantes de español",
+  "date": "viernes, 20 de noviembre de 2026",
+  "title_ko": "디아리오 데 다이너스 클럽",
+  "sub_ko": "스페인어 학습자를 위한 스페인어권 뉴스",
+  "stories": [
+   {
+    "tag": "ESPAÑA · ELECCIONES",
+    "head": "Última semana de campaña: el PP lidera, pero la distancia se acorta",
+    "ko": "스페인 총선 마지막 주: 국민당 선두지만 격차 좁혀져",
+    "src": "Demócrata, Ara, Sigma Dos"
+   },
+   {
+    "tag": "COSTA RICA · EDUCACIÓN",
+    "head": "Laura Fernández llama “vagabundos” a docentes en huelga",
+    "ko": "코스타리카 대통령, 파업 교사들을 “부랑자”라 불러 논란",
+    "src": "CRHoy, La Nación, Diario Extra"
+   },
+   {
+    "tag": "COLOMBIA · ECONOMÍA",
+    "head": "Arranca la negociación del salario mínimo de 2027",
+    "ko": "콜롬비아, 2027년 최저임금 협상 시작",
+    "src": "La Silla Vacía, La FM"
+   },
+   {
+    "tag": "GUATEMALA · PRESUPUESTO",
+    "head": "El Congreso debate un presupuesto récord para 2027",
+    "ko": "과테말라 의회, 사상 최대 2027년 예산안 심의",
+    "src": "AGN, Revista E&N, ConsultorSalud"
+   },
+   {
+    "tag": "PERÚ · SOCIEDAD",
+    "head": "León XIV se despide de Perú ante más de un millón de fieles",
+    "ko": "레오 14세 교황, 100만 명 넘는 신자 앞에서 페루와 작별",
+    "src": "Telesur, El Peruano, EWTN Noticias"
+   }
+  ],
+  "vocab": [
+   "la encuesta",
+   "la huelga",
+   "el plazo",
+   "aprobar",
+   "despedirse"
+  ]
+ }
+}
