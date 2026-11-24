@@ -1,6 +1,137 @@
 {
  "days": [
   {
+   "date": "2026-11-24",
+   "langs": {
+    "en": [
+     "newsletter_en_2026-11-24.pdf",
+     "reels_en_2026-11-24.mp4",
+     "slide_01.png",
+     "slide_02.png",
+     "slide_03.png",
+     "slide_04.png",
+     "slide_05.png",
+     "slide_06.png",
+     "slide_07.png",
+     "slide_08.png",
+     "slide_09.png",
+     "slide_10.png",
+     "video_en_2026-11-24.mp4"
+    ],
+    "es": [
+     "newsletter_es_2026-11-24.pdf",
+     "reels_es_2026-11-24.mp4",
+     "slide_01.png",
+     "slide_02.png",
+     "slide_03.png",
+     "slide_04.png",
+     "slide_05.png",
+     "slide_06.png",
+     "slide_07.png",
+     "slide_08.png",
+     "slide_09.png",
+     "slide_10.png",
+     "video_es_2026-11-24.mp4"
+    ]
+   },
+   "meta": {
+    "date": "2026-11-24",
+    "date_ko": "2026년 11월 24일 (화)",
+    "en": {
+     "title": "DAILY DAINERS CLUB",
+     "sub": "Global news for English learners",
+     "date": "Tuesday, November 24, 2026",
+     "title_ko": "데일리 다이너스 클럽",
+     "sub_ko": "영어 학습자를 위한 세계 뉴스",
+     "stories": [
+      {
+       "tag": "TECH · MARKETS",
+       "head": "Nvidia brings back Jensen Huang as CEO, and its stock soars",
+       "ko": "엔비디아, 젠슨 황 CEO 복귀… 주가 급등",
+       "src": "CNBC, CNN, Yahoo Finance"
+      },
+      {
+       "tag": "EUROPE · SPAIN",
+       "head": "Spain votes on Sunday in a close snap election",
+       "ko": "스페인, 일요일 조기 총선… 초접전",
+       "src": "Bloomberg, El País, Demócrata"
+      },
+      {
+       "tag": "ASIA · DIPLOMACY",
+       "head": "India offers Nepal $1.6 billion after deadly floods",
+       "ko": "인도, 홍수 피해 네팔에 16억 달러 지원",
+       "src": "The Hans India, Asianet Newsable, QNC News"
+      },
+      {
+       "tag": "MIDDLE EAST · GULF",
+       "head": "Gulf shipping stays tense as the U.S. tightens its Iran blockade",
+       "ko": "미국, 이란 봉쇄 강화… 걸프 해역 긴장 지속",
+       "src": "USNI News, Gulf News, Reuters"
+      },
+      {
+       "tag": "COLOMBIA · PEACE",
+       "head": "Ten years on, Colombia's peace deal is only half done",
+       "ko": "콜롬비아 평화협정 10년… 이행은 절반에 그쳐",
+       "src": "El País (Colombia), Cambio, El Universal"
+      }
+     ],
+     "vocab": [
+      "reinstate",
+      "poll",
+      "aid package",
+      "vow",
+      "anniversary"
+     ]
+    },
+    "es": {
+     "title": "DIARIO DE DAINERS CLUB",
+     "sub": "Noticias del mundo hispano para estudiantes de español",
+     "date": "martes, 24 de noviembre de 2026",
+     "title_ko": "디아리오 데 다이너스 클럽",
+     "sub_ko": "스페인어 학습자를 위한 스페인어권 뉴스",
+     "stories": [
+      {
+       "tag": "ESPAÑA · ELECCIONES",
+       "head": "Recta final: España vota el domingo 29 de noviembre",
+       "ko": "막판 레이스: 스페인, 11월 29일 일요일 총선",
+       "src": "El País (40dB) vía Bloomberg, Demócrata, Latin Times"
+      },
+      {
+       "tag": "ECUADOR · ELECCIONES",
+       "head": "Ecuador elige alcaldes y prefectos el mismo domingo",
+       "ko": "에콰도르, 같은 날 시장·주지사 뽑는 지방선거",
+       "src": "CNE vía Teleamazonas, Primicias, El Comercio"
+      },
+      {
+       "tag": "COLOMBIA · PAZ",
+       "head": "Diez años del Acuerdo de Paz con las FARC",
+       "ko": "FARC 평화협정 10주년",
+       "src": "El País (Colombia), Cambio, El Universal"
+      },
+      {
+       "tag": "VENEZUELA · POLÍTICA",
+       "head": "El diálogo entre chavismo y oposición sigue sin fecha electoral",
+       "ko": "베네수엘라 여야 대화, 선거 날짜는 여전히 미정",
+       "src": "El Diario, CNN en Español (EFE), La Patilla"
+      },
+      {
+       "tag": "CHILE · POLÍTICA",
+       "head": "La aprobación de Kast sigue en mínimos",
+       "ko": "칠레 카스트 대통령 지지율, 최저 수준",
+       "src": "Cadem vía Emol, Meganoticias, T13"
+      }
+     ],
+     "vocab": [
+      "el sondeo",
+      "los comicios",
+      "adelantar",
+      "pactar",
+      "el desempleo"
+     ]
+    }
+   }
+  },
+  {
    "date": "2026-11-18",
    "langs": {
     "en": [
