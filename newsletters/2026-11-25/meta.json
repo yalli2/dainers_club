@@ -1,0 +1,96 @@
+{
+ "date": "2026-11-25",
+ "date_ko": "2026년 11월 25일 (수)",
+ "en": {
+  "title": "DAILY DAINERS CLUB",
+  "sub": "Global news for English learners",
+  "date": "Wednesday, November 25, 2026",
+  "title_ko": "데일리 다이너스 클럽",
+  "sub_ko": "영어 학습자를 위한 세계 뉴스",
+  "stories": [
+   {
+    "tag": "TECH · LAW",
+    "head": "A U.S. jury finds Huawei guilty of fraud and stealing secrets",
+    "ko": "미국 배심원단, 화웨이에 사기·기밀 절취 유죄 평결",
+    "src": "CNBC, PBS NewsHour, NBC News, Fortune"
+   },
+   {
+    "tag": "MIDDLE EAST · SAUDI ARABIA",
+    "head": "Houthis say they attacked a Saudi refinery and Riyadh",
+    "ko": "후티 반군 \"사우디 정유시설·리야드 공격\" 주장",
+    "src": "Reuters via The Star, Business Recorder, Türkiye Today"
+   },
+   {
+    "tag": "ENERGY · MARKETS",
+    "head": "Iran says tankers hit mines, but oil prices stay low",
+    "ko": "이란 \"유조선 기뢰 피격\" 주장에도 유가는 낮은 수준",
+    "src": "CNBC, Yahoo Finance, Nation Thailand"
+   },
+   {
+    "tag": "EUROPE · WAR",
+    "head": "Ukraine hits Russian refineries as Putin vows revenge",
+    "ko": "우크라이나, 러시아 정유시설 타격… 푸틴 \"보복 불가피\"",
+    "src": "Kyiv Independent, Al Jazeera, Euronews"
+   },
+   {
+    "tag": "RUSSIA · CORRUPTION",
+    "head": "A sitting Russian governor is arrested for the first time since 2022",
+    "ko": "러시아 현직 주지사, 2022년 이후 첫 체포",
+    "src": "The Moscow Times, Meduza"
+   }
+  ],
+  "vocab": [
+   "convict",
+   "acquit",
+   "intercept",
+   "retaliation",
+   "embezzle"
+  ]
+ },
+ "es": {
+  "title": "DIARIO DE DAINERS CLUB",
+  "sub": "Noticias del mundo hispano para estudiantes de español",
+  "date": "miércoles, 25 de noviembre de 2026",
+  "title_ko": "디아리오 데 다이너스 클럽",
+  "sub_ko": "스페인어 학습자를 위한 스페인어권 뉴스",
+  "stories": [
+   {
+    "tag": "COLOMBIA · SUCESOS",
+    "head": "Rescatan a todos los rehenes de un supermercado en Cartagena",
+    "ko": "콜롬비아 카르타헤나 슈퍼마켓 인질 전원 구출",
+    "src": "Infobae, El Universal, Univision, TRT Español"
+   },
+   {
+    "tag": "25N · SOCIEDAD",
+    "head": "Marchas en todo el mundo hispano contra la violencia machista",
+    "ko": "'여성폭력 추방의 날'… 스페인어권 곳곳에서 행진",
+    "src": "Pauta, N+, SDP Noticias, Actualidad Castellón"
+   },
+   {
+    "tag": "CUBA · SALUD",
+    "head": "La OMS ofrece ayuda a Cuba ante la crisis sanitaria",
+    "ko": "세계보건기구, 의료 위기 쿠바에 지원 제안",
+    "src": "CNN en Español (AP), Infobae (EFE), La Jornada"
+   },
+   {
+    "tag": "ARGENTINA · ECONOMÍA",
+    "head": "La inflación de octubre sube al 2,2 % y preocupa al Gobierno",
+    "ko": "아르헨티나 10월 물가 2.2% 상승… 정부 긴장",
+    "src": "El Cronista, La Política Online, Argentina.gob.ar"
+   },
+   {
+    "tag": "HAITÍ · SEGURIDAD",
+    "head": "Mueren tres soldados salvadoreños en la lucha contra las pandillas",
+    "ko": "아이티 갱단 소탕 작전서 엘살바도르 군인 3명 사망",
+    "src": "CNN en Español (AP), El Financiero, Yahoo Noticias"
+   }
+  ],
+  "vocab": [
+   "el rehén",
+   "el feminicidio",
+   "la escasez",
+   "acelerarse",
+   "desaparecido"
+  ]
+ }
+}
