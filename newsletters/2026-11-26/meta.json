@@ -1,0 +1,96 @@
+{
+ "date": "2026-11-26",
+ "date_ko": "2026년 11월 26일 (목)",
+ "en": {
+  "title": "DAILY DAINERS CLUB",
+  "sub": "Global news for English learners",
+  "date": "Thursday, November 26, 2026",
+  "title_ko": "데일리 다이너스 클럽",
+  "sub_ko": "영어 학습자를 위한 세계 뉴스",
+  "stories": [
+   {
+    "tag": "TRADE · USA & KOREA",
+    "head": "U.S. proposes new “overcapacity” tariffs on 14 economies",
+    "ko": "미국, 14개 경제권에 새 '과잉생산' 관세 제안",
+    "src": "Kyunghyang Shinmun, Edaily, Baker McKenzie, KPMG"
+   },
+   {
+    "tag": "AFRICA · HEALTH",
+    "head": "Ebola cases in Congo pass 12,000",
+    "ko": "콩고 에볼라 확진자 1만 2천 명 넘어",
+    "src": "AP via NPR & U.S. News, Euronews, ECDC"
+   },
+   {
+    "tag": "MIDDLE EAST · KUWAIT",
+    "head": "Two Italians killed in a drone attack in Kuwait",
+    "ko": "쿠웨이트 드론 공격으로 이탈리아인 2명 사망",
+    "src": "Kuwait Times, ABC News (Australia), Haaretz"
+   },
+   {
+    "tag": "EUROPE · WAR",
+    "head": "Kremlin says Ukraine is widening the war to new seas",
+    "ko": "크렘린 \"우크라이나가 전쟁을 새 바다로 넓힌다\"",
+    "src": "Reuters via Cyprus Mail & Yahoo, Daily Sabah"
+   },
+   {
+    "tag": "UK · SOCIETY",
+    "head": "UK net migration falls to 77,000",
+    "ko": "영국 순이민 7만 7천 명으로 감소",
+    "src": "ONS, Free Movement"
+   }
+  ],
+  "vocab": [
+   "tariff",
+   "outbreak",
+   "standoff",
+   "to widen",
+   "provisional"
+  ]
+ },
+ "es": {
+  "title": "DIARIO DE DAINERS CLUB",
+  "sub": "Noticias del mundo hispano para estudiantes de español",
+  "date": "jueves, 26 de noviembre de 2026",
+  "title_ko": "디아리오 데 다이너스 클럽",
+  "sub_ko": "스페인어 학습자를 위한 스페인어권 뉴스",
+  "stories": [
+   {
+    "tag": "ESPAÑA · ELECCIONES",
+    "head": "Debate a cuatro, tres días antes del 29N",
+    "ko": "스페인 총선 사흘 앞두고 4자 TV 토론",
+    "src": "El Economista, eldiario.es, El Plural"
+   },
+   {
+    "tag": "VENEZUELA · POLÍTICA",
+    "head": "Machado promete “justicia sin venganza”",
+    "ko": "마차도 \"복수 없는 정의\" 약속",
+    "src": "CNN en Español, Euronews, El Colombiano"
+   },
+   {
+    "tag": "ARGENTINA · POLÍTICA",
+    "head": "El Senado debate suspender las PASO de 2027",
+    "ko": "아르헨티나 상원, 2027년 예비선거(PASO) 중단 심의",
+    "src": "La Nación, A24, iProfesional"
+   },
+   {
+    "tag": "MÉXICO · SEGURIDAD",
+    "head": "Sheinbaum acusa a la DEA de “injerencia”",
+    "ko": "셰인바움 \"미 마약단속국(DEA)의 내정간섭\"",
+    "src": "Excélsior, El Financiero, 24 Horas"
+   },
+   {
+    "tag": "ESPAÑA · ECONOMÍA",
+    "head": "El salario mínimo quedará libre de IRPF",
+    "ko": "스페인 최저임금, 소득세(IRPF) 면제",
+    "src": "Infobae/EFE, Público, The Objective"
+   }
+  ],
+  "vocab": [
+   "la encuesta",
+   "la venganza",
+   "suspender",
+   "la injerencia",
+   "el sueldo"
+  ]
+ }
+}
