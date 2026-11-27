@@ -1,6 +1,137 @@
 {
  "days": [
   {
+   "date": "2026-11-27",
+   "langs": {
+    "en": [
+     "newsletter_en_2026-11-27.pdf",
+     "reels_en_2026-11-27.mp4",
+     "slide_01.png",
+     "slide_02.png",
+     "slide_03.png",
+     "slide_04.png",
+     "slide_05.png",
+     "slide_06.png",
+     "slide_07.png",
+     "slide_08.png",
+     "slide_09.png",
+     "slide_10.png",
+     "video_en_2026-11-27.mp4"
+    ],
+    "es": [
+     "newsletter_es_2026-11-27.pdf",
+     "reels_es_2026-11-27.mp4",
+     "slide_01.png",
+     "slide_02.png",
+     "slide_03.png",
+     "slide_04.png",
+     "slide_05.png",
+     "slide_06.png",
+     "slide_07.png",
+     "slide_08.png",
+     "slide_09.png",
+     "slide_10.png",
+     "video_es_2026-11-27.mp4"
+    ]
+   },
+   "meta": {
+    "date": "2026-11-27",
+    "date_ko": "2026년 11월 27일 (금)",
+    "en": {
+     "title": "DAILY DAINERS CLUB",
+     "sub": "Global news for English learners",
+     "date": "Friday, November 27, 2026",
+     "title_ko": "데일리 다이너스 클럽",
+     "sub_ko": "영어 학습자를 위한 세계 뉴스",
+     "stories": [
+      {
+       "tag": "EUROPE · POLITICS",
+       "head": "EU leaders fail to agree on budget and Ukraine loan",
+       "ko": "EU 정상들, 예산과 우크라이나 대출 합의 실패",
+       "src": "AP via ABC News & The Hill, BNN Bloomberg"
+      },
+      {
+       "tag": "TRADE · WORLD",
+       "head": "China, Japan and others push back on U.S. tariff plan",
+       "ko": "중국·일본 등, 미국 관세 계획에 반발",
+       "src": "AP via WRTV, The Globe and Mail, Newsweek"
+      },
+      {
+       "tag": "AFRICA · EGYPT",
+       "head": "Fuel tanker fire kills 31 on a Cairo highway",
+       "ko": "카이로 고속도로 유조차 화재로 31명 사망",
+       "src": "AP via Washington Post, CBS News, Fox News"
+      },
+      {
+       "tag": "MIDDLE EAST · SHIPPING",
+       "head": "Iran says two oil tankers hit sea mines near Oman",
+       "ko": "이란 \"유조선 2척, 오만 인근서 기뢰에 부딪혀\"",
+       "src": "Reuters via U.S. News & Arab News, Shipping Herald"
+      },
+      {
+       "tag": "USA · WEATHER",
+       "head": "Thanksgiving storms disrupt U.S. holiday travel",
+       "ko": "추수감사절 폭풍으로 미국 연휴 교통 차질",
+       "src": "NBC News, Yahoo News, Weatherboy"
+      }
+     ],
+     "vocab": [
+      "budget",
+      "premise",
+      "to detain",
+      "to deny",
+      "to postpone"
+     ]
+    },
+    "es": {
+     "title": "DIARIO DE DAINERS CLUB",
+     "sub": "Noticias del mundo hispano para estudiantes de español",
+     "date": "viernes, 27 de noviembre de 2026",
+     "title_ko": "디아리오 데 다이너스 클럽",
+     "sub_ko": "스페인어 학습자를 위한 스페인어권 뉴스",
+     "stories": [
+      {
+       "tag": "ARGENTINA · POLÍTICA",
+       "head": "El Senado aprueba suspender las PASO de 2027",
+       "ko": "아르헨티나 상원, 2027년 예비선거(PASO) 중단 통과",
+       "src": "Perfil, Senado de la Nación, El Doce"
+      },
+      {
+       "tag": "ESPAÑA · ELECCIONES",
+       "head": "Feijóo, ganador del debate según las encuestas",
+       "ko": "여론조사 \"4자 토론 승자는 페이호\"",
+       "src": "El Español, El Plural, El Debate"
+      },
+      {
+       "tag": "ECUADOR · ELECCIONES",
+       "head": "Silencio electoral antes de las seccionales",
+       "ko": "에콰도르, 지방선거 앞두고 '선거 침묵' 기간",
+       "src": "CNE Ecuador, El Comercio, teleSUR"
+      },
+      {
+       "tag": "BOLIVIA · ECONOMÍA",
+       "head": "Choferes anuncian un paro indefinido por el diésel",
+       "ko": "볼리비아 운전기사들, 경유값 인상에 무기한 파업 예고",
+       "src": "Infobae, Panamericana, El Diario (Bolivia)"
+      },
+      {
+       "tag": "PERÚ · CLIMA",
+       "head": "Keiko Fujimori aplaza su viaje a Colombia",
+       "ko": "페루 게이코 후지모리 대통령, 콜롬비아 방문 연기",
+       "src": "RPP, El Peruano"
+      }
+     ],
+     "vocab": [
+      "aprobar",
+      "el ganador",
+      "el paro",
+      "aplazar",
+      "la inundación"
+     ]
+    }
+   }
+  },
+  {
    "date": "2026-11-26",
    "langs": {
     "en": [
